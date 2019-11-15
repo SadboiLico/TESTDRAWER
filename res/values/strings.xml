@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="menus">
+        <item>Home</item>
+        <item>Page 1</item>
+        <item>Page 2</item>
+        <item>Exit</item>
+    </string-array>
+
+</resources>
